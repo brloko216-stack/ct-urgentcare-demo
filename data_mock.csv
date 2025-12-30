@@ -1,0 +1,7 @@
+area_id,area_name,county,lat,lon,demographic_fit,insurance_alignment,health_demand_stability,accessibility,competition
+A1,West Hartford Cluster,Hartford,41.7620,-72.7420,84,92,78,86,62
+A2,Greenwich Cluster,Fairfield,41.0262,-73.6282,88,95,74,82,70
+A3,Milford Cluster,New Haven,41.2223,-73.0565,80,88,76,85,58
+A4,Avon/Simsbury Cluster,Hartford,41.8095,-72.8296,82,90,73,80,55
+A5,Stamford North Cluster,Fairfield,41.0799,-73.5387,79,87,75,83,77
+A6,Glastonbury Cluster,Hartford,41.7123,-72.6081,81,89,72,79,57
